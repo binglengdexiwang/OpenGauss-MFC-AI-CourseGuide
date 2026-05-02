@@ -73,11 +73,3 @@ pip install requests
 
 本仓库主要用于展示 AI 选课指导功能相关文件，不包含完整学生选课系统的所有源码。若要完整运行，需要结合原 MFC + OpenGauss 工程环境。
 
-## 上传命令
-
-```cmd
-notepad README.md
-git add README.md
-git commit -m "add README"
-git push
-```
